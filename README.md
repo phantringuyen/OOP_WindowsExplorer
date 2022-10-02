@@ -1,4 +1,4 @@
-Object Oriented Programming_Project
+Object Oriented Programming Project
 # Windows Explorer
 In this project, we will understand to how design a C++ program which installs the system to store drives, folders, files in <Windows Explorer> using inheritance and polymorphism with the <Composite> design pattern. Describe more details:
 1. The drive will have many folders and files. Drives, folders, and files all have names
